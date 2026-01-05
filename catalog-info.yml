@@ -3,7 +3,7 @@ kind: Component
 type: service
 identifier: natalie_test_two
 name: natalie test two
-owner: natalie.finnegan@harness.io
+owner: user:natalie.finnegan@harness.io
 orgIdentifier: default
 projectIdentifier: default_project
 spec:
