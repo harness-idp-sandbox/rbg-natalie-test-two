@@ -1,0 +1,9 @@
+site_name: 'Documentation Template'
+repo_url: https://github.com/harness-idp-sandbox/rbg-natalie-test-two
+edit_uri: https://github.com/harness-idp-sandbox/rbg-natalie-test-two/blob/main/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
